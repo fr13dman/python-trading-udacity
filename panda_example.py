@@ -23,3 +23,4 @@ def get_max_close(symbol):
 if __name__ == "__main__":
     test_run() 
     plot_graph()
+    print("completed!")
